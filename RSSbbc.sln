@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSSbbc", "RSSbbc\RSSbbc.csproj", "{8956901B-6E71-4BA3-91CC-828BBC16C23E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8956901B-6E71-4BA3-91CC-828BBC16C23E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8956901B-6E71-4BA3-91CC-828BBC16C23E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8956901B-6E71-4BA3-91CC-828BBC16C23E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8956901B-6E71-4BA3-91CC-828BBC16C23E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
